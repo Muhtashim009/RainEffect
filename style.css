@@ -9,3 +9,8 @@
     background-image: url(img.jpg);
     background-size: 100% 100%;
 }
+
+.rain{
+    height: 100vh;
+    background-image: url(rain2.png);
+}
