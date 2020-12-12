@@ -13,4 +13,14 @@
 .rain{
     height: 100vh;
     background-image: url(rain2.png);
+    animation: rain .3s linear infinite;
+}
+
+@keyframes rain {
+    form {
+        background-position: 0% 0%;
+    }
+    to {
+        background-position: 0 100%;
+    }
 }
